@@ -3,6 +3,8 @@
 # Counter-Strike 2 VPK map packer
 MapPacker.exe is a console application written in C# to pack files and folders to a VPK file to use it in Source 2 engine games like Counter-Strike 2.
 
+Uses **ValvePAK** Nugget package: https://github.com/ValveResourceFormat/ValvePak
+
 # How to use
 To pack files you have to start MapPacker.exe with 2 command line arguments each one enclosed in quotes.
 - **#1:** A source folder containing the files you want to pack
