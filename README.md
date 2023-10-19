@@ -16,3 +16,5 @@ To pack files you have to start MapPacker.exe with 2 command line arguments each
 If you not enclose the parameters in quotes, te application will fail.
 
 ![2](https://github.com/fpaezf/cs2-vpk-map-packer/assets/28062918/6dd12229-bb4f-41a8-a12d-cd50edc4fe84)
+
+Edit the included **MapPacker.bat** file to properly work with the application.
