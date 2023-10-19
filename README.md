@@ -8,8 +8,11 @@ To pack files you have to start MapPacker.exe with 2 command line arguments each
 - **#1:** A source folder containing the files you want to pack
 - **#2:** A target vpk file to store the packet files and folders
 
+
 **EXAMPLE:**
-MapPacker.exe "C:\Users\Francesc\Downloads\Map Files" "C:\Users\Francesc\Desktop\test.vpk"
+
+**MapPacker.exe** "C:\Users\Francesc\Downloads\Map Files" "C:\Users\Francesc\Desktop\test.vpk"
 
 If you not enclose the parameters in quotes, te application will fail.
+
 ![2](https://github.com/fpaezf/cs2-vpk-map-packer/assets/28062918/6dd12229-bb4f-41a8-a12d-cd50edc4fe84)
